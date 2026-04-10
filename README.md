@@ -63,3 +63,51 @@ The system uses structured prompts to simulate expert-level review of survey que
   "explanation": "Different interpretations of territorial coverage may affect comparability.",
   "suggested_fix": "Provide a standardized definition."
 }
+
+## Repository Structure
+
+ai-survey-validation-mel/
+
+README.md
+sample_survey.xlsx
+
+prompts/
+   survey_review_prompt.txt
+
+outputs/
+   example_output.json
+
+## Key Features
+
+- AI-assisted validation of survey design
+- Focus on multi-country comparability and policy relevance
+- Structured outputs for integration into data workflows
+- Applicable to governance, humanitarian, and international reporting contexts
+
+## Data Protection Considerations
+This project does not use real respondent data.
+- Only survey structure and question text are processed
+- Example outputs are based on synthetic or non-sensitive inputs
+- No personal or confidential data is used
+This ensures alignment with data protection and responsible data principles in international and governance contexts.
+
+##Use Cases
+- Pre-deployment validation of survey instruments
+- Quality assurance for multi-country data collection
+- Support to indicator standardization and harmonization
+- Improving usability of datasets for policy analysis
+
+##Limitations
+- LLM outputs depend on prompt quality and may require human validation
+- Does not replace expert review, but complements it
+- Complex survey logic may require additional contextual input
+
+##Future Improvements
+- Batch processing of full XLSForms
+- Integration with KoboToolbox / ActivityInfo workflows
+- Scoring system for survey quality
+- Dashboard for survey diagnostics and comparability risks
+
+##Author
+Pedro Martínez Llabata
+Data & Evidence Specialist | Survey Design | Information Management
