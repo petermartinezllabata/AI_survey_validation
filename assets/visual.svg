@@ -1,0 +1,27 @@
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#0f172a"/>
+
+  <!-- Survey block -->
+  <rect x="60" y="100" width="100" height="100" fill="#1e293b"/>
+  <text x="75" y="155" fill="#38bdf8" font-size="12" font-family="monospace">SURVEY</text>
+
+  <!-- Arrow -->
+  <text x="190" y="155" fill="#94a3b8" font-size="20">→</text>
+
+  <!-- AI block -->
+  <rect x="230" y="100" width="100" height="100" fill="#1e293b"/>
+  <text x="255" y="155" fill="#22c55e" font-size="14" font-family="monospace">AI</text>
+
+  <!-- Arrow -->
+  <text x="360" y="155" fill="#94a3b8" font-size="20">→</text>
+
+  <!-- Output block -->
+  <rect x="400" y="100" width="120" height="100" fill="#1e293b"/>
+  <text x="415" y="145" fill="#facc15" font-size="10" font-family="monospace">{ JSON }</text>
+  <text x="420" y="165" fill="#f87171" font-size="10" font-family="monospace">issues ✓</text>
+
+  <!-- Title -->
+  <text x="150" y="50" fill="#e2e8f0" font-size="16" font-family="monospace">
+    AI Survey Validation Pipeline
+  </text>
+</svg>
