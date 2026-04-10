@@ -64,6 +64,8 @@ The system uses structured prompts to simulate expert-level review of survey que
   "suggested_fix": "Provide a standardized definition."
 }
 
+---
+
 ## Repository Structure
 
 ai-survey-validation-mel/
