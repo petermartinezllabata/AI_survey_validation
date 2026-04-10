@@ -67,6 +67,7 @@ Return results in STRICT JSON format:
       }
     ],
     "overall_assessment": ""
+    "quality_score": "0-5"
   }
 ]
 
