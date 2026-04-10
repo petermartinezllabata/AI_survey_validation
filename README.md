@@ -70,23 +70,23 @@ This project does not use real respondent data.
 - No personal or confidential data is used
 This ensures alignment with data protection and responsible data principles in international and governance contexts.
 
-##Use Cases
+## Use Cases
 - Pre-deployment validation of survey instruments
 - Quality assurance for multi-country data collection
 - Support to indicator standardization and harmonization
 - Improving usability of datasets for policy analysis
 
-##Limitations
+## Limitations
 - LLM outputs depend on prompt quality and may require human validation
 - Does not replace expert review, but complements it
 - Complex survey logic may require additional contextual input
 
-##Future Improvements
+## Future Improvements
 - Batch processing of full XLSForms
 - Integration with KoboToolbox / ActivityInfo workflows
 - Scoring system for survey quality
 - Dashboard for survey diagnostics and comparability risks
 
-##Author
+## Author
 Pedro Martínez Llabata
 Data & Evidence Specialist | Survey Design | Information Management
