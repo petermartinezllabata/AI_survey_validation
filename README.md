@@ -48,24 +48,6 @@ The system uses structured prompts to simulate expert-level review of survey que
 
 ---
 
-## Example
-
-### Input (survey question)
-
-> Does the data on police provided in this questionnaire cover the entire geographical territory of your country?
-
-### Output (simplified)
-
-```json
-{
-  "dimension": "Comparability",
-  "severity": "medium",
-  "explanation": "Different interpretations of territorial coverage may affect comparability.",
-  "suggested_fix": "Provide a standardized definition."
-}
-
----
-
 ## Repository Structure
 
 ai-survey-validation-mel/
